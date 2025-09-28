@@ -1,8 +1,4 @@
 
-
----
-
-```markdown
 # HTML Fund Me (Foundry + Frontend)
 
 A simple **Fund Me DApp** built with [Foundry](https://book.getfoundry.sh/) (Solidity smart contracts) and a frontend in **HTML/JavaScript**.  
